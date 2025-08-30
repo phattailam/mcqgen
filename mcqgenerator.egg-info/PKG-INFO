@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: mcqgenerator
+Version: 0.0.1
+Summary: A package for generating multiple-choice questions using AI.
+Author: Tai Lam
+Author-email: lamtai2105@gmail.com
+Requires-Dist: openai==1.37.1
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
