@@ -7,8 +7,8 @@ setup(
     author_email="lamtai2105@gmail.com",
     description="A package for generating multiple-choice questions using AI.",
     install_requires=[
-        "openai==1.37.1",
-        "langchain==0.1.20",
+        "openai",
+        "langchain",
         "streamlit",
         "python-dotenv",
         "PyPDF2"
